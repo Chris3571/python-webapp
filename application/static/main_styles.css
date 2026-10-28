@@ -10,7 +10,7 @@ h1 { color: maroon;
 h2 { color: mediumvioletred;
 }
 
-footer > p { color: white;
+footer > p { color: rgb(207, 65, 65);
                font-size: smaller;
     }
 
@@ -25,7 +25,7 @@ footer {
 
 .joke { background-color: cadetblue;
         padding: 1%;
-        color: white;
+        color: rgb(235, 43, 52);
         font-family: Verdana, serif;
 }
 .question {
@@ -33,7 +33,7 @@ footer {
 }
 
 .button {
-  background-color: rgb(12, 62, 224);
+  background-color: rgb(85, 156, 53);
   border: none;
   color: white;
   padding: 15px 32px;
